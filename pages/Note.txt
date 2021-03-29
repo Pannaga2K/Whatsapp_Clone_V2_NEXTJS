@@ -1,0 +1,53 @@
+NEXT_JS
+
+    - npx create-next-app <APP_NAME>
+    - npm run dev
+
+PACKAGES INSTALLED
+
+    - styled-components
+    - email-validator
+    - better-react-spinkit
+    - react-firebase-hooks
+================================================================================================================
+- email-validator
+    EmailValidator.validate(<inputEmail>);                    // CHECKS IF THE inputEmail IS IN THE CORRECT FORMAT
+
+- better-react-spinkit
+    import <COMPONENT_NAME>
+    <COMPONENT_NAME color="" size={} />                       // LOADING ANIMATION
+
+- react-firebase-hooks
+    useAuthState
+        const [user, loading] = useAuthState(auth);           // CHECKS IF THE USER IS LOGGED IN OR NOT
+    useCollection
+
+================================================================================================================
+STYLED COMPONENTS
+
+const <CONTAINER_NAME> = styled.<HTML_TAG> || styled(<CUSTOM_CONTAINER_NAME>)`
+    <CSS>
+`;
+
+
+
+
+
+
+
+
+
+
+
+
+
+================================================================================================================
+NEXT ---> BUILT-IN SERVER SIDE RENDERING ---> BACKEND SERVER
+"pages" directory                                                   --->         ACTS AS A ROUTER
+    index.js                                                        --->         ROOT PAGE (/)
+<<<<<<< HEAD
+
+        NO SSR                                                              SSR
+STATIC SITE GENERATION                                              DYNAMIC SITE GENERATION
+=======
+>>>>>>> 16c0325... add entire nextjs web-app
