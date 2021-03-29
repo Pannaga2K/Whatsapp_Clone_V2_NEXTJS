@@ -45,9 +45,6 @@ const <CONTAINER_NAME> = styled.<HTML_TAG> || styled(<CUSTOM_CONTAINER_NAME>)`
 NEXT ---> BUILT-IN SERVER SIDE RENDERING ---> BACKEND SERVER
 "pages" directory                                                   --->         ACTS AS A ROUTER
     index.js                                                        --->         ROOT PAGE (/)
-<<<<<<< HEAD
 
         NO SSR                                                              SSR
 STATIC SITE GENERATION                                              DYNAMIC SITE GENERATION
-=======
->>>>>>> 16c0325... add entire nextjs web-app
