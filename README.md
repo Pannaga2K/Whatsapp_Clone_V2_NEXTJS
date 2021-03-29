@@ -22,4 +22,5 @@ STATIC SITE GENERATION                                              DYNAMIC SITE
         - useAuthState
           - CHECKS IF THE USER IS LOGGED IN OR NOT
         - useCollection
+        - NEED TO UPDATE!!!
 ```
