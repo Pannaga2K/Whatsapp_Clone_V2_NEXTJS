@@ -10,8 +10,8 @@ STATIC SITE GENERATION                                              DYNAMIC SITE
     
 ```
 
+## PACKAGES INSTALLED
 ```
-  ## PACKAGES INSTALLED
       - styled-components
         - USE TO STYLE COMPONENTS
       - email-validator
