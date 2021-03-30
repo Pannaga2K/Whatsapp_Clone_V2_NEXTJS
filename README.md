@@ -51,4 +51,4 @@ STATIC SITE GENERATION                                              DYNAMIC SITE
         - EXPORT AN ASYNC FUNCTION CALLED getServerSideProps(context)
 
 ## DEPLOYED WEBSITE
-    - [WHATSAPP_CLONE_V2_NEXT_JS](https://whatsapp-clone-v2-next-js.vercel.app)
+- [WHATSAPP_CLONE_V2_NEXT_JS](https://whatsapp-clone-v2-next-js.vercel.app)
