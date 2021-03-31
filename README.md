@@ -1,9 +1,7 @@
 # NEXT_JS
     - npx create-next-app <APP_NAME>
     - npm run dev
-    
-    NEXT ---> BUILT-IN SERVER SIDE RENDERING ---> BACKEND SERVER
-    
+        
 ```
         NO SSR                                                              SSR
 STATIC SITE GENERATION                                              DYNAMIC SITE GENERATION
